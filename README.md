@@ -1,51 +1,67 @@
 # Module 1 Final Project
-
 ## The Project
 
 Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry.
 Your team is charged with doing data analysis and creating a presentation that explores what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the CEO can use when deciding what type of films they should be creating.
 
-# The Deliverables
+## Outline
 
-For online students, there will be five deliverables for this project (Note: On-campus students may have different requirements, please speak with your instructor):
+### Questions
+# 1. What are the most popular movie genres on TMDB?
+# 2. What are the most lucrative types of films?
+# 3. How much do these movies cost to make?
 
-1. A well documented **Jupyter Notebook** containing any code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project.  
-2. An organized **README.md** file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository.
-3. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) giving a high-level overview of your methodology and recommendations for non-technical stakeholders. Make sure to also add and commit this pdf of your non-technical presentation to your repository with a file name of presentation.pdf.
-4. **[A Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1)**
-5. A **Video Walkthrough** of your non-technical presentation. Some common video recording tools used are Zoom, Quicktime, and Nimbus. After you record your presentation, publish it on a service like YouTube or Google Drive, you will need a link to the video to submit your project.
+------------------------------------------------------------------------------------
 
-Note: On-campus students may have different requirements, please speak with your instructor.
+# Visualization #1 Analysis 
+# Question: What are the most popular movie genres on TMDB?
 
-### Jupyter Notebook Must-Haves
+#As we can see from the list of TMDB's 25 Most Popular films, it is apparent that the most popular
+#genres of films are Super Hero movies, Well-Known Series (non-Super Hero such as LOTR, Star Wars, etc.), and Children's movies.
 
-For this project, your Jupyter Notebook should meet the following specifications:
+#15 of the top 25 are Super Hero movies (60%)
+#4 of the top 25 are Well-Known Series (16%)
+#3 of the top 25 are Children's movies (12%)
+#3 of the top 25 are one-off successful films (12%)
 
-#### Organization/Code Cleanliness
-
-* The notebook should be well organized, easy to follow,  and code should be commented where appropriate.  
-    * Level Up: The notebook contains well-formatted, professional looking markdown cells explaining any substantial code.  All functions have docstrings that act as professional-quality documentation
-* The notebook is written for technical audiences with a way to both understand your approach and reproduce your results. The target audience for this deliverable is other data scientists looking to validate your findings.
-
-#### Visualizations & EDA
-
-* Your project contains at least 4 meaningful data visualizations, with corresponding interpretations. All visualizations are well labeled with axes labels, a title, and a legend (when appropriate)  
-* You pose at least 3 meaningful questions and answer them through EDA.  These questions should be well labeled and easy to identify inside the notebook.
-    * **Level Up**: Each question is clearly answered with a visualization that makes the answer easy to understand.   
-* Your notebook should contain 1 - 2 paragraphs briefly explaining your approach to this project.
+#The fact that Super Hero & Well-Known Series films makeup over 3/4 of TMDB's top 25 most popular movies
+#is an incredibly compelling statistic if Microsoft decides to create new content.
+#Unfortunately, Microsoft is late to this strategy and would thus have to be creative about how they
+#could participate in creating these movies when Marvel Comic Universe, Sony, Universal and Disney all own the 
+#vast majority of intellectual property rights for these film series.
 
 
-### Non-Technical Presentation Must-Haves
+# Visualization #2 - Analysis
+# Question 2: What are the most lucrative types of films?
 
-Another deliverable should be a Keynote, PowerPoint or Google Slides presentation delivered as a pdf file in your fork of this repository with the file name of `presentation.pdf` detailing the results of your project.  Your target audience is non-technical people interested in using your findings to make decisions for creating movies.
+#Taking a look at the top 10 foreign and domestic grossing films, it is clear, though unsurprising, to see that 
+#many of the most popular film categories are also the ones that make the most money. 
 
-Your presentation should:
+#40% (4) Super Hero Movies
+#40% (4) Well-Known Series
+#20% (2) Children's Movies
 
-* Contain between 5 - 10 professional-quality slides.  
-    * **Level Up**: The slides should use visualizations whenever possible, and avoid walls of text.
-* Take no more than 5 minutes to present.   
-* Avoid technical jargon and explain the results in a clear, actionable way for non-technical audiences.   
 
-### Blog Post Must-Haves
+# Visualization 3 -  Analysis
+#Question 3: What are the most expensive movies to make?
 
-Refer back to the [Blogging Guidelines](https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1) for the technical requirements and blog ideas.
+#Among the most expensive movies to make, the majority fall into the same three categories as the most lucrative
+#and popular films - Well-Known series, Super Hero movies, and Children's movies. 
+
+# Recommendation
+
+#For Microsoft to begin creating movies that are going to be very popular and thus, lucrative, their avenues are
+#limited. The chances of creating a one-off film that ends up being lucrative enough to justify the initial investment,
+#although it is not impossible it is unlikely. More reasonably, Microsoft would need to figure out what their competitive
+#advantage is when it comes to the film-creation business, of which owning the intellectual property of these consistently successful movies
+#is not one of them.
+
+#I believe that in this context, Microsoft's most valuable asset is that roughly 50-60 million people own an Xbox device.
+#In this way, they are already in many peoples' livingrooms, so there may be a lucrative solution for them providing
+#access to certain sets of movies they can offer for streaming.
+
+#For all of the reasons described, I recommend that Microsoft does not get involved in creating new movie content.
+#There may be legitimate business opportunities that they could create by distributing other companyies' content on their video game devices
+#and even Windows operating system. None of these reasons, however, are compelling enough to me to support Microsoft
+#moving into this new industry. Additionally, the opportunity cost of spending money on trying to create successful movies
+#is signficiant, as the cash could be used to improve some of their services that are more dominant, such as GitHub.
