@@ -46,7 +46,7 @@ Your team is charged with doing data analysis and creating a presentation that e
 #and popular films - Well-Known series, Super Hero movies, and Children's movies. 
 
 
-![alt text](https://github.com/kagada01/dsc-mod-1-project-v2-1-online-ds-sp-000/edit/master/top_10_gross_total.png)
+![Alt Text](https://github.com/kagada01/dsc-mod-1-project-v2-1-online-ds-sp-000/edit/master/top_10_gross_total.png)
 
 ---------------------------
 # Conclusion
