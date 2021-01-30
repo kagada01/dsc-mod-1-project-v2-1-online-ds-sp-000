@@ -45,7 +45,7 @@ Your team is charged with doing data analysis and creating a presentation that e
 #Among the most expensive movies to make, the majority fall into the same three categories as the most lucrative
 #and popular films - Well-Known series, Super Hero movies, and Children's movies. 
 
-<img src="https://github.com/kagada01/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/top_10_gross_total.png" width="200"/>
+<img src="https://github.com/kagada01/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/top_10_gross_total.png" width="500"/>
 
 ---------------------------
 # Conclusion
