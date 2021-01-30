@@ -1,3 +1,6 @@
+# Dan Kagan | Online Self-Paced | February 1st, 2021 @ 4pm | 
+# Instructor: Jeff Herman | https://medium.com/@dankagan7/data-science-and-me-1d3e8a7d8bf2
+
 # Module 1 Final Project
 ## The Project
 
@@ -11,10 +14,9 @@ Your team is charged with doing data analysis and creating a presentation that e
 # 2. What are the most lucrative types of films?
 # 3. How much do these movies cost to make?
 
-------------------------------------------------------------------------------------
-
+---------------------------
 # Visualization #1 Analysis 
-# Question: What are the most popular movie genres on TMDB?
+# Question 1: What are the most popular movie genres on TMDB?
 
 #As we can see from the list of TMDB's 25 Most Popular films, it is apparent that the most popular
 #genres of films are Super Hero movies, Well-Known Series (non-Super Hero such as LOTR, Star Wars, etc.), and Children's movies.
@@ -30,7 +32,7 @@ Your team is charged with doing data analysis and creating a presentation that e
 #could participate in creating these movies when Marvel Comic Universe, Sony, Universal and Disney all own the 
 #vast majority of intellectual property rights for these film series.
 
-
+---------------------------
 # Visualization #2 - Analysis
 # Question 2: What are the most lucrative types of films?
 
@@ -41,27 +43,21 @@ Your team is charged with doing data analysis and creating a presentation that e
 #40% (4) Well-Known Series
 #20% (2) Children's Movies
 
-
+---------------------------
 # Visualization 3 -  Analysis
-#Question 3: What are the most expensive movies to make?
+# Question 3: What are the most expensive movies to make?
 
 #Among the most expensive movies to make, the majority fall into the same three categories as the most lucrative
 #and popular films - Well-Known series, Super Hero movies, and Children's movies. 
 
-# Recommendation
+---------------------------
+# Conclusion
 
-#For Microsoft to begin creating movies that are going to be very popular and thus, lucrative, their avenues are
-#limited. The chances of creating a one-off film that ends up being lucrative enough to justify the initial investment,
-#although it is not impossible it is unlikely. More reasonably, Microsoft would need to figure out what their competitive
-#advantage is when it comes to the film-creation business, of which owning the intellectual property of these consistently successful movies
-#is not one of them.
+For Microsoft to begin creating movies that are going to be very popular and thus, lucrative, their avenues are limited. The chances of creating a one-off film that ends up being lucrative enough to justify the initial investment, although it is not impossible, is unlikely. More reasonably, Microsoft would need to figure out what their competitive advantage is when it comes to the film-creation business, of which owning the intellectual property of these consistently successful movies is not one of them.
 
-#I believe that in this context, Microsoft's most valuable asset is that roughly 50-60 million people own an Xbox device.
-#In this way, they are already in many peoples' livingrooms, so there may be a lucrative solution for them providing
-#access to certain sets of movies they can offer for streaming.
+I believe that within the context of joining the film industry, Microsoft's most valuable asset is that roughly 50-60 million people own some kind of an Xbox device. In this way, they are already in many peoples' livingrooms, so there may be a lucrative solution for them providing access to certain sets of movies they can offer for streaming.
 
-#For all of the reasons described, I recommend that Microsoft does not get involved in creating new movie content.
-#There may be legitimate business opportunities that they could create by distributing other companyies' content on their video game devices
-#and even Windows operating system. None of these reasons, however, are compelling enough to me to support Microsoft
-#moving into this new industry. Additionally, the opportunity cost of spending money on trying to create successful movies
-#is signficiant, as the cash could be used to improve some of their services that are more dominant, such as GitHub.
+---------------------------
+# Recommendations
+
+For all of the reasons described, I recommend that Microsoft does not get involved in creating new movie content. There may be legitimate business opportunities that they could create by distributing other companyies' content on their video game devices and even Windows operating system. None of these reasons, however, are compelling enough to me to support Microsoft moving into this new industry. Additionally, the opportunity cost of spending money on trying to create successful movies is signficiant, as the cash could be used to improve some of their services that are more dominant, such as GitHub.
