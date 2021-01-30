@@ -47,6 +47,9 @@ Your team is charged with doing data analysis and creating a presentation that e
 
 <img src=" /Users/DanKagan/Development/Flatiron_Assignments/online_datascience/mod_1/mod1_project/dsc-mod-1-project-v2-1-online-ds-sp-000/Top 10 Grossing Films (F&D)"><img>
 
+![alt text](https://github.com/kagada01/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/Top 10 Grossing Films (F&D).jpg?raw=true)
+
+
 ---------------------------
 # Conclusion
 
