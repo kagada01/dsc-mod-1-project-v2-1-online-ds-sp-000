@@ -14,8 +14,7 @@ Your team is charged with doing data analysis and creating a presentation that e
 # 2. What are the most lucrative types of films?
 # 3. How much do these movies cost to make?
 
----------------------------
-# Visualization #1 Analysis 
+--------------------------- 
 # Question 1: What are the most popular movie genres on TMDB?
 
 #As we can see from the list of TMDB's 25 Most Popular films, it is apparent that the most popular
@@ -33,7 +32,6 @@ Your team is charged with doing data analysis and creating a presentation that e
 #vast majority of intellectual property rights for these film series.
 
 ---------------------------
-# Visualization #2 - Analysis
 # Question 2: What are the most lucrative types of films?
 
 #Taking a look at the top 10 foreign and domestic grossing films, it is clear, though unsurprising, to see that 
@@ -44,7 +42,6 @@ Your team is charged with doing data analysis and creating a presentation that e
 #20% (2) Children's Movies
 
 ---------------------------
-# Visualization 3 -  Analysis
 # Question 3: What are the most expensive movies to make?
 
 #Among the most expensive movies to make, the majority fall into the same three categories as the most lucrative
