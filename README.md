@@ -45,6 +45,8 @@ Your team is charged with doing data analysis and creating a presentation that e
 #Among the most expensive movies to make, the majority fall into the same three categories as the most lucrative
 #and popular films - Well-Known series, Super Hero movies, and Children's movies. 
 
+<img src=" /Users/DanKagan/Development/Flatiron_Assignments/online_datascience/mod_1/mod1_project/dsc-mod-1-project-v2-1-online-ds-sp-000/Top 10 Grossing Films (F&D)"><img>
+
 ---------------------------
 # Conclusion
 
